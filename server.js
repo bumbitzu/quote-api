@@ -67,7 +67,7 @@ function updateQuote(req, res)
   {
     if (!quote && !person)
     {
-      res.status(404).send({ message: "Quote not found." });
+      res.status(404).send({ message: "No quote or person, please provide at least one" });
     } else
     {
       const unchangedQuote = quotes[ index ].quote;
