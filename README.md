@@ -34,6 +34,10 @@ node server.js
 
 Open browser and paste `localhost:4001` to URL bar.
 
+## Live
+
+Test now at https://bumbitzu.ro/projects/quote-api
+
 ## Contributing
 
 I welcome contributions to the Quote API!
