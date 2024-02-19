@@ -5,9 +5,9 @@ Welcome to the Quote API repository! This project aims to provide an accessible 
 ## Features
 
 - Fetch random quotes
-- Retrieve quotes by category or author (if applicable)
-- Add new quotes to the database (if your API supports this)
-- User authentication for posting quotes (if implemented)
+- Retrieve all quotes or by author 
+- Add new quotes to the database
+- Delete quotes from the database
 
 ## Technologies
 
