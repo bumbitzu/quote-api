@@ -26,11 +26,13 @@ npm install
 
 ## Usage
 
-Provide examples of how to use the API, including fetching quotes, adding new quotes, or any authentication required.
+Run application
 
-```javascript
-// Example fetch request to get a random quote
+```bash
+node server.js
 ```
+
+Open browser and paste `localhost:4001` to URL bar.
 
 ## Contributing
 
