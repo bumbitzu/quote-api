@@ -36,7 +36,7 @@ Open browser and paste `localhost:4001` to URL bar.
 
 ## Contributing
 
-We welcome contributions to the Quote API! Please read through our contributing guidelines for more information on how you can contribute to the project.
+I welcome contributions to the Quote API!
 
 ## License
 
